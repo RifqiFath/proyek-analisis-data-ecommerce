@@ -50,3 +50,9 @@ Dashboard akan terbuka di `http://localhost:8501`.
 ## Menjalankan Notebook
 Buka `notebook.ipynb` dengan Jupyter/Colab dari folder `submission` (agar path `data/` terbaca), lalu pilih Run All.
 Bagian akhir notebook menghasilkan `dashboard/main_data.csv` dan `dashboard/rfm_data.csv` yang dipakai dashboard.
+
+## Dashboard Online
+Dashboard sudah di-deploy dan dapat diakses di:
+https://dashboard-ecommerce-rifqi.streamlit.app/ 
+
+

@@ -1,2 +1,2 @@
 Isi dengan link dashboard setelah di-deploy ke Streamlit Community Cloud, contoh:
-https://nama-app-kamu.streamlit.app
+https://dashboard-ecommerce-rifqi.streamlit.app/
